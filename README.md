@@ -9,5 +9,5 @@ the program prints the best groupped cluster of points.
 ![Image](https://github.com/shubh-sohi/groupper/blob/master/images/SC1.png)
 ![Image](https://github.com/shubh-sohi/groupper/blob/master/images/SC2.png)
 ![Image](https://github.com/shubh-sohi/groupper/blob/master/images/SC3.png)
-* The compiler then prints the best groups number of groups
+* The compiler then prints the best outcome.
 ![Image](https://github.com/shubh-sohi/groupper/blob/master/images/SC4.png)
