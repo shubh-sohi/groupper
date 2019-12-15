@@ -107,7 +107,7 @@ def plot():
     m.ylim(0, maxY+10)
     m.xlabel("vitamin c")
     m.ylabel("GLA VALUES")
-    m.title("burraaa")
+    m.title("groupper")
     m.show()
 
 # plot()
